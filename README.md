@@ -11,4 +11,4 @@ Coded in JS and HTML in 1-2 hours as my first project with JS/HTML. Excited to l
 
 ## Contact me
 
-You can find my contact info [here](/contact)
+You can find my contact info [here](https://git.aidanc.dev/contact)
