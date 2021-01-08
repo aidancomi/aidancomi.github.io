@@ -4,3 +4,6 @@ description: Some projects I've created, not really anything advanced, but wante
 
 pages_list:
   contact: '/contact'
+
+github:
+  is_project_page: false
