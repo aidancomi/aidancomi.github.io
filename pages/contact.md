@@ -1,5 +1,8 @@
+---
 title: "Contact"
+layout: page
 permalink: /contact
+---
 
 #Contact Aidan
 
