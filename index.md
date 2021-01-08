@@ -6,7 +6,7 @@
 <meta name="msapplication-TileColor" content="#2b5797">
 <meta name="theme-color" content="#ffffff">
 
-## Welcome to Aidan's Coding Projects!
+# Welcome to Aidan's Coding Projects!
 
 Thanks for checking out my projects!
 
