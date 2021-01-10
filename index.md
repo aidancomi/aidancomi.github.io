@@ -16,6 +16,10 @@ I don't have much so far, but I'm working everyday to work more.
 
 Coded in JS and HTML in 1-2 hours as my first project with JS/HTML. Excited to learn even more!
 
+## [Project](https://serve.aidanc.dev): Apache Server
+
+Working with Apache and PHP on some projects ([ip.php](https://serve.aidanc.dev/ip.php))
+
 ## Contact me
 
 You can find my contact info [here](https://git.aidanc.dev/contact).
