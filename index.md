@@ -20,7 +20,7 @@ Coded in JS and HTML in 1-2 hours as my first project with JS/HTML. Excited to l
 
 Working with Apache and PHP on some projects ([ip.php](https://serve.aidanc.dev/ip.php))
 
-## [Project](https://aidanc.page/yt_template): Pages Site
+## [Project](https://aidanc.page/example): Pages Site
 
 This is hosted as a hidden repository on Github via Github Pages for giving random projects (videos, presentations, etc) their own page.
 
