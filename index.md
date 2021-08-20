@@ -16,11 +16,11 @@ I don't have much so far, but I'm working everyday to work more.
 
 Coded in JS and HTML in 1-2 hours as my first project with JS/HTML. Excited to learn even more!
 
-## [Project](https://serve.aidanc.dev): Apache Server
+## [Project](https://clearyourcookiesandcache.com): Clear your Cookies and Cache
 
-Working with Apache and PHP on some projects ([ip.php](https://serve.aidanc.dev/ip.php))
+This was quickly created to detect the browser and forward to the correct support page. This is open-source and can be found [here](https://github.com/aidancomi/clearyourcookiesandcache)
 
-## [Project](https://aidanc.page/example): Pages Site
+## [Project](https://comi.page/example): Pages Site
 
 This is hosted as a hidden repository on Github via Github Pages for giving random projects (videos, presentations, etc) their own page.
 
