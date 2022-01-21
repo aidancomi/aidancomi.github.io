@@ -24,6 +24,11 @@ This was quickly created to detect the browser and forward to the correct suppor
 
 This is hosted as a hidden repository on Github via Github Pages for giving random projects (videos, presentations, etc) their own page.
 
+## [Project](https://chrisprattisnowplaying.com): Chris Pratt is Now Playing
+
+This was quickly built after the announcement of Chris Pratt playing Mario and is [fully open-source](https://github.com/aidancomi/chrisprattisnowplaying)! You can find more info in the [README](https://github.com/aidancomi/chrisprattisnowplaying#readme) on the Repository!
+
+
 ## Contact me
 
 You can find my contact info [here](/contact).
