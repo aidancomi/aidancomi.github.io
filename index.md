@@ -28,6 +28,9 @@ This is hosted as a hidden repository on Github via Github Pages for giving rand
 
 This was quickly built after the announcement of Chris Pratt playing Mario and is [fully open-source](https://github.com/aidancomi/chrisprattisnowplaying)! You can find more info in the [README](https://github.com/aidancomi/chrisprattisnowplaying#readme) on the Repository!
 
+## [Project](https://github.com/aidancomi/r-placebot): r/Place Discord Bot
+
+This was my first discord bot and is designed to help discord communities for r/Place. It will search for any messages that contain what it suspects are coordinates, ex (543, 221).  This bot was built in Python and hosted on [Replit](https://replit.com/@aidancomi/rPlace-Bot).
 
 ## Contact me
 
