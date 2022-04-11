@@ -8,9 +8,7 @@
 
 # Welcome to Aidan's Coding Projects!
 
-Thanks for checking out my projects!
-
-I don't have much so far, but I'm working everyday to work more.
+This site will be used to track my coding projects and as a portfolio to show what I've done!
 
 ## [Project](https://whatchristmaseveisit.com): What Christmas Eve is It
 
@@ -23,6 +21,10 @@ This was quickly created to detect the browser and forward to the correct suppor
 ## [Project](https://comi.page/example): Pages Site
 
 This is hosted as a hidden repository on Github via Github Pages for giving random projects (videos, presentations, etc) their own page.
+
+## [Project](https://comi.page/dvd/): DVD QR Code
+
+Inspired by the [Coinbase Superbowl Ad](https://www.theverge.com/2022/2/13/22932397/coinbases-qr-code-super-bowl-ad-app-crash), I created a site to recreate that with a QR code to my site instead. The DVD bouncing was built by [Stephen Zungia](https://codepen.io/stezu/pen/DyGWrV).
 
 ## [Project](https://chrisprattisnowplaying.com): Chris Pratt is Now Playing
 
