@@ -2,8 +2,8 @@ github:
   is_project_page: false
 
 theme: jekyll-theme-hacker
-title: Aidan Comi Dev Projects
-description: Some projects I've created, not really anything advanced, but wanted to keep track.
+title: Aidan Comi's Coding Projects
+description: See all the cool new projects Aidan has built.
 
 pages_list:
   contact: '/contact'

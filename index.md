@@ -6,9 +6,9 @@
 <meta name="msapplication-TileColor" content="#2b5797">
 <meta name="theme-color" content="#ffffff">
 
-# Welcome to Aidan's Coding Projects!
+# Welcome to Aidan's Portfolio Site!
 
-This site will be used to track my coding projects and as a portfolio to show what I've done!
+This site is used to track my coding projects and as a portfolio to show what I've done!
 
 ## [Project](https://whatchristmaseveisit.com): What Christmas Eve is It
 
